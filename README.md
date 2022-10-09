@@ -1,16 +1,7 @@
 # todaydo_app
 
-A new Flutter project.
+Mobile application to follow up your daily tasks.
 
-## Getting Started
+![Screenshot_1665286242](https://user-images.githubusercontent.com/115164036/194737483-ee144913-ddb0-48d9-8cc1-0854e0b51ec5.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1665286082](https://user-images.githubusercontent.com/115164036/194737484-6e112fcd-71b2-40dd-8564-7d1629c34d9d.png)
