@@ -1,2 +1,2 @@
-*.Dart linguist-vendored = true
-*. linguist-vendored
+*.Dart linguist-vendored = false
+* linguist-vendored
